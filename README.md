@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viral-data
+- 👋 Hi, I’m @Viral-data a medical virologist with a keen interest in  Data Science for Effective Research Data Processing.
 - 👀 I’m interested in Data Science and Data analysis using python
 - 🌱 I’m currently learning Data Science for Beginners.
 - 💞️ I’m looking to collaborate on Data Science Projects.
